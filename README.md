@@ -10,8 +10,3 @@ I'm an Information Technology passionate about DevOps, Infrastructure Automation
 ![](https://github-readme-stats.shion.dev/api?username=Giovanni-088&theme=nord&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Giovanni-088&theme=nord&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Giovanni-088&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=Giovanni-088&icon=2&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
